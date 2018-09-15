@@ -12,6 +12,7 @@ test_x = x(:,index+1:6000); test_y = y(:,index+1:6000);
 
 % rand_x_lost = randn(60,2000)-0.5;
 % train_x = train_x - 0.1*rand_x_lost;
+% test Αυ¶ώΉ·
 
 hyperParas.debug = 0;
 
